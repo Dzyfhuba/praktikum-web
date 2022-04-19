@@ -10,17 +10,7 @@
 </head>
 
 <body>
-    <nav>
-        <a id="brand" href="/">
-            Brand
-        </a>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="product.html">Product</a></li>
-            <li><a href="service.html">Service</a></li>
-            <li><a href="about.html">About</a></li>
-        </ul>
-    </nav>
+    <?php include('nav.php') ?>
     Ini halaman SERVICE
 </body>
 
